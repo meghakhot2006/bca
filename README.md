@@ -1,2 +1,2 @@
 # bca
-full stock in html
+full stack in html
